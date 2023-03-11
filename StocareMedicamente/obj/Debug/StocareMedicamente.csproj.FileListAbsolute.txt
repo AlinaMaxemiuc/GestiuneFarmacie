@@ -1,0 +1,5 @@
+D:\Desktop\Facultate\AN II\SEMESTRU II\PIU\Proiect C#\Repos\StocareMedicamente\bin\Debug\StocareMedicamente.dll
+D:\Desktop\Facultate\AN II\SEMESTRU II\PIU\Proiect C#\Repos\StocareMedicamente\bin\Debug\StocareMedicamente.pdb
+D:\Desktop\Facultate\AN II\SEMESTRU II\PIU\Proiect C#\Repos\StocareMedicamente\obj\Debug\StocareMedicamente.csproj.CoreCompileInputs.cache
+D:\Desktop\Facultate\AN II\SEMESTRU II\PIU\Proiect C#\Repos\StocareMedicamente\obj\Debug\StocareMedicamente.dll
+D:\Desktop\Facultate\AN II\SEMESTRU II\PIU\Proiect C#\Repos\StocareMedicamente\obj\Debug\StocareMedicamente.pdb
